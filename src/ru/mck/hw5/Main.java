@@ -65,6 +65,7 @@ public class Main {
             default:
                 System.out.println("Не существующий месяц года");
 
+
         }
     }
 }
